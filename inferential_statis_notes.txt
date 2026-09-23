@@ -73,7 +73,7 @@ doctor believes the mean to be different. He measured the height of 36 individua
 the average height to be 169.5 cm.
 1) State null and alternate hypothesis
 2) At a 95% confidence level, is there enough evidence to reject the null hypothesis
-
+ Z = (sample mean - population mean) / std Deviation / (n)^1/2
 
 
 
