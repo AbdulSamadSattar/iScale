@@ -1,5 +1,5 @@
 ## Supervised Machine Learning
-
+AI Engineer Notes 529 Pages.pdf pg # 400 to onwards
 | Algorithm | One-Line Explanation |
 |-----------|---------------------|
 | **Linear Regression** | Predicts a continuous value by fitting a straight line through data |
